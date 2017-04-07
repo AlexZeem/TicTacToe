@@ -1,0 +1,5 @@
+#ignore build files
+bld
+*.pro.user
+Makefile
+.qmake*
